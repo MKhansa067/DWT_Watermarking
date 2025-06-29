@@ -1,0 +1,10 @@
+{
+  "name": "image-watermarking-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jimp": "^0.22.12",
+    "formidable": "^3.5.1",
+    "wavelets": "^0.0.1"
+  }
+}
